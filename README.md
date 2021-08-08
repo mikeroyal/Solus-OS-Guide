@@ -15,37 +15,37 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/NixOS-Guide#getting-started)
+1. [Getting Started](https://github.com/mikeroyal/Solus-OS-Guide#getting-started)
 
-2. [Getting Software](https://github.com/mikeroyal/NixOS-Guide#getting-software)
+2. [Getting Software](https://github.com/mikeroyal/Solus-OS-Guide#getting-software)
 
-3. [Gaming](https://github.com/mikeroyal/NixOS-Guide/blob/main/README.md#gaming)
+3. [Gaming](https://github.com/mikeroyal/Solus-OS-Guide#gaming)
 
-4. [Setting up a macOS Workspace](https://github.com/mikeroyal/NixOS-Guide#setting-up-a-macos-workspace)
+4. [Setting up a macOS Workspace](https://github.com/mikeroyal/Solus-OS-Guide#setting-up-a-macos-workspace)
 
-5. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/NixOS-Guide#setting-up-a-windows-10-workspace)
+5. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/Solus-OS-Guide#setting-up-a-windows-10-workspace)
 
-6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/NixOS-Guide#using-android-and-android-apps-on-linux)
+6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Solus-OS-Guide#using-android-and-android-apps-on-linux)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/NixOS-Guide#professional-audio--video-editing)
+7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Solus-OS-Guide#professional-audio--video-editing)
 
-8. [Kubernetes](https://github.com/mikeroyal/NixOS-Guide#kubernetes)
+8. [Kubernetes](https://github.com/mikeroyal/Solus-OS-Guide#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/NixOS-Guide#machine-learning)
+9. [Machine Learning](https://github.com/mikeroyal/Solus-OS-Guide#machine-learning)
 
-10. [Robotics](https://github.com/mikeroyal/NixOS-Guide#robotics)
+10. [Robotics](https://github.com/mikeroyal/Solus-OS-Guide#robotics)
 
-11. [Open Source Security](https://github.com/mikeroyal/NixOS-Guide#open-source-security)
+11. [Open Source Security](https://github.com/mikeroyal/Solus-OS-Guide#open-source-security)
 
-12. [Differential Privacy](https://github.com/mikeroyal/NixOS-Guide#differential-privacy)
+12. [Differential Privacy](https://github.com/mikeroyal/Solus-OS-Guide#differential-privacy)
 
-13. [Cloud Native Development](https://github.com/mikeroyal/NixOS-Guide#cloud-native-development)
+13. [Cloud Native Development](https://github.com/mikeroyal/Solus-OS-Guide#cloud-native-development)
 
-14. [DevOps Development](https://github.com/mikeroyal/NixOS-Guide#devops-development)
+14. [DevOps Development](https://github.com/mikeroyal/Solus-OS-Guide#devops-development)
 
-15. [Networking](https://github.com/mikeroyal/NixOS-Guide#networking)
+15. [Networking](https://github.com/mikeroyal/Solus-OS-Guide#networking)
 
-16. [Databases](https://github.com/mikeroyal/NixOS-Guide#databases)
+16. [Databases](https://github.com/mikeroyal/Solus-OS-Guide#databases)
 
 
 # Getting Started
