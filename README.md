@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645116-eca24ca2-6607-4411-aa82-ad9a5dd8459d.png">
   <br />
    Solus OS Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your Solus Desktop with all the essential Applications, Tools, and Games to make your experience with Solus OS great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced Solus OS users.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645117-b3c7a62a-9354-4336-b6d8-898598a3619d.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -70,26 +75,26 @@ sudo eopkg install packagename
 
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645118-8cbfc4ff-6cde-41e0-9155-874a0cbfc678.png">
   <br />
   Solus OS with the Budgie Desktop
 </h3>
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645120-5857a565-60b2-41e8-a6f4-1267ad8073d6.png">
   <br />
   Solus OS with the GNOME Desktop
 </h3>
 
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645122-2f78366d-b600-4706-bed0-33708f6f0ff9.png">
   <br />
   Solus OS with the MATE Desktop
 </h3>
 
 <h3 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645126-ae20c811-bcb5-4c50-9771-7bcb728aca4e.png">
   <br />
   Solus OS with the Plasma Desktop
 </h3>
